@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "685966064330",
+    "project_id": "travelplanapp-309020",
+    "storage_bucket": "travelplanapp-309020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685966064330:android:3c07898df5e8fcb3731233",
+        "android_client_info": {
+          "package_name": "ar.com.aduarte.travelplanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685966064330-p7fttba8jk5pmkh36r6uo4hirna4vmdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.aduarte.travelplanapp",
+            "certificate_hash": "50ded5c1160bfed009a5ea831e4890004ce16268"
+          }
+        },
+        {
+          "client_id": "685966064330-u7asvcalvt4tvggkan3ukss6qiku5326.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOi0WjW3-T851FQ1X4Kt5CtMT7Fz6DeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685966064330-u7asvcalvt4tvggkan3ukss6qiku5326.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685966064330-8otq8g1u6f0g72gsrv15afspdtiggk5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ar.com.aduarte.travelplanapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

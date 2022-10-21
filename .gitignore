@@ -7,7 +7,7 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
-*.plist
+GoogleService-Info.plist
 web-build/
 
 # macOS
